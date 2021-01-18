@@ -1,4 +1,10 @@
 git status
 git add h1.txt
 gitt commit -m "Change h1.txt"
+
+git add .
+git add *.py
+git add someDir/*.py
+git add someDir/
+git add "*.py"
 2
