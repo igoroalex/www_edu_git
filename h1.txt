@@ -1,2 +1,4 @@
-hello world1
+git status
+git add h1.txt
+gitt commit -m "Change h1.txt"
 2
