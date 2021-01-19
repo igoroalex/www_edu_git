@@ -7,4 +7,3 @@ git add *.py
 git add someDir/*.py
 git add someDir/
 git add "*.py"
-2
