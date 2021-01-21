@@ -25,7 +25,9 @@ git commit --amend -m "add and commit h1.txt"
 git clean -n
 git clean -f
 
-
+git remote add origin https://github.com/igoroalex/www_edu_git.git
+git remote -v
+git push origin master
 
 
 
