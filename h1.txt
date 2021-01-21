@@ -16,7 +16,7 @@ git diff bc1adc8d26ccfed6d52d3311c076ee0e392776d1
 
 git reset [--hard| --mixed| --soft] [HEAD^^|HEAD~2|hash]
 
-git checkout [HEAD^^|HEAD~2|hash]
+git checkout [HEAD^^|HEAD~2|hash|master]
 
 
 
