@@ -19,6 +19,9 @@ git reset [--hard| --mixed| --soft] [HEAD^^|HEAD~2|hash]
 git checkout [HEAD^^|HEAD~2|hash|master]
 git checkout [HEAD^^|HEAD~2|hash] -- h1.txt
 
+git commit -a -m "add and commit h1.txt"
+git commit --amend -m "add and commit h1.txt"
+
 
 
 
