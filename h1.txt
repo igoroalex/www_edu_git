@@ -1,4 +1,6 @@
-all about git for begginers
+#all about git for begginers
+git init
+
 git status
 git add h1.txt
 gitt commit -m "Change h1.txt"
@@ -28,7 +30,7 @@ git clean -f
 git remote add origin https://github.com/igoroalex/www_edu_git.git
 git remote -v
 git push origin master
-
+git pull origin master
 
 
 
