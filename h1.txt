@@ -22,6 +22,9 @@ git checkout [HEAD^^|HEAD~2|hash] -- h1.txt
 git commit -a -m "add and commit h1.txt"
 git commit --amend -m "add and commit h1.txt"
 
+git clean -n
+git clean -f
+
 
 
 
